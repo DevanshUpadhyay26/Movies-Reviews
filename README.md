@@ -1,9 +1,9 @@
 ### Frontend
 React
 
-###Backend
+### Backend
 Java
 Spring Boot
 
-###Database
+### Database
 MYSQL
